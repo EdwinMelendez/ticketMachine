@@ -158,7 +158,7 @@ namespace Project_12_2
         //The Exit Button
         private void btnExit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close();//closes app
         }
     }
 }
